@@ -1,2 +1,4 @@
 # Desafios de Código
-Desafios de código feitos durante o Santander Bootcamp 2023
+Repositório feito para portfólio utilizando os desafios de código feitos durante o Santander Bootcamp 2023.
+
+Utilizado especialmente para estudos.
